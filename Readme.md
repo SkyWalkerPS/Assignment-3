@@ -1,19 +1,17 @@
 # Assignment-3
 
-## Submitted by :- Prakhar Saxena
-## Scholar ID :- 2012064
-## CSE Sec-A
-## Course code: CS-201
-## National Institute of Technology, Silchar
+### Submitted by :- Prakhar Saxena
+### Scholar ID :- 2012064
+### CSE Sec-A
+### Course code: CS-201
+### National Institute of Technology, Silchar
 <br/>
+
 > Problems
-1. How to generate unique string hash value? For instance, input: ”CSE Rocks”, Output: Some
-integer value
-2. Benchmark the performance of Insertion sort technique for average case, best case and
-worst cases. Draw the chart.
-3. Write a program to generate a set of prime numbers using Sieve of Eratosthenes. Input
-range n = 2^64-1.
-4. Write a program to create library for the array A[] of size n of the following functions:- 
+1. How to generate unique string hash value? For instance, input: ”CSE Rocks”, Output: Some integer value
+2. Benchmark the performance of Insertion sort technique for average case, best case and worst cases. Draw the chart.
+3. Write a program to generate a set of prime numbers using Sieve of Eratosthenes. Input range n = 2^64-1.
+4. Write a program to create library for the array A[] of size n of the following functions
     - InsertItemAtLast(int A[], int n, int key), return void
     - InsertItemAtFirst(int A[], int n, int key), return void
     - InsertItemAtIndex(int A[], int n, int i, int key), return void
@@ -39,6 +37,4 @@ range n = 2^64-1.
     - SetArrayToZero(int A[], int n), returns void
     - DeleteAllItemOfArray(int A[], int n), returns void
     - DeleteArray(int A[], int n), returns void
-    - AllocateArray(int A[], int n), returns address
-    where i, and j are index, key is to be searched/inserted/deleted, r is the total number of
-    rotations/shifting
+    - AllocateArray(int A[], int n), returns address, where i, and j are index, key is to be searched/inserted/deleted, r is the total number of rotations/shifting
